@@ -1,6 +1,7 @@
 package sistemaXadrez;
 
 import chess.ChessPiece;
+import tabuleiro.Position;
 
 public class UI {
 	
@@ -24,4 +25,6 @@ public class UI {
 		}
 		System.out.print(" ");
 	}
+	
+	
 }
